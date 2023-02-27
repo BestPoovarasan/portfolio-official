@@ -1,0 +1,31 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contactform{
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rgba(8, 8, 8, 0.644);
+    backdrop-filter: blur(4px);
+    background-color: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    color: #fff;
+    width: 350px;
+    height: 400px;
+}
+.forminput{
+  color: #fff !important;
+}
+.formtitle{
+ border-radius: 4px;
+  background: linear-gradient(to right, #0004ff, #ff0037);
+  webkit-background-clip: text;
+  color: #fff;
+}
+.send{
+  background: linear-gradient(to right, #021B79, #0037ff);
+  color: #fff;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.1), 0 0 168px 13px rgba(7, 0, 0, 0.1) !important;
+}

@@ -1,0 +1,34 @@
+#card{
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    background-color: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(5px);
+    box-shadow: 0 5px 15px  rgba(0, 0, 0, 0.705);
+}
+
+.projectimg{
+    border-radius: 10px;
+    height: 150px;
+}
+.cardacc{
+    margin-bottom: 10px;
+}
+
+.projectbtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#sourcecode{
+    width: 120px;
+    background: linear-gradient(to right, #021B79, #0037ff);
+    color: #fff;
+    box-shadow: none;
+}
+#livepreview{
+    width: 100px;
+    background: linear-gradient(to right, #015f0e, #07db35);
+    color: #fff;
+    box-shadow: none;
+}

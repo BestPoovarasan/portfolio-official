@@ -1,0 +1,18 @@
+#profilecard{
+    display: flex;
+    box-shadow: 5px 5px 20px rgba(8, 8, 8, 0.644);
+    backdrop-filter: blur(4px);
+    background-color: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+#profileimg{
+    width: 100px;
+    height: 100px;
+}
+#profilebtn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+

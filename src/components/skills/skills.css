@@ -1,0 +1,33 @@
+.skillimg{
+        height: 80px;
+        height: 80px;
+    }
+    #mdcardskill{
+        backdrop-filter: blur(4px);
+        box-shadow: 0 5px 15px  rgba(0, 0, 0, 0.705);
+        background-color: rgba(255, 255, 255, 0.116);
+        border: 1px solid rgba(255, 255, 255, 0.125);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 140px;
+        height: 145px;
+        color: #fff;
+        
+    }
+    .totalcard{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        
+    }
+
+    .st{
+        background: linear-gradient(90deg, rgba(170,123,28,1) 0%, rgba(173,118,7,1) 0%, rgba(255,183,15,1) 63%, rgba(255,183,15,1) 95%);
+        -webkit-background-clip: text;
+        color: transparent;
+        font-family: 'Pacifico', cursive;
+      }
