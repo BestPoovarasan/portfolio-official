@@ -50,7 +50,7 @@ export default function Profile() {
                   fluid
                 />
                 <MDBBtn
-                  href="https://app.netlify.com/teams/bestpoovarasan/overview"
+                  href="https://app.netlify.com/teams/poovarasan-official/overview"
                   target="_blank"
                   outline
                   style={{ color: "#fff" }}
@@ -72,7 +72,7 @@ export default function Profile() {
                   fluid
                 />
                 <MDBBtn
-                  href="https://www.linkedin.com/in/best-poovarasan-3732a6169/"
+                  href="https://www.linkedin.com/in/poovarasan-r-3732a6169/"
                   target="_blank"
                   outline
                   style={{ color: "#fff" }}

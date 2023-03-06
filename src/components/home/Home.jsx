@@ -8,10 +8,10 @@ export default function Home() {
       <MDBContainer className="mt-5">
         <MDBRow id="home">
         <MDBCol sm='6'>
-        <MDBRipple rippleColor='light' rippleTag='div' className='headerimg hover-overlay'>
+        <MDBRipple rippleColor='light'>
             <img
               id = "headerimg"
-              alt="example"
+              alt="Reactjs"
               className="img-fluid"
               src="./img/reactheader.svg"
             />

@@ -27,7 +27,7 @@ export default function Projects() {
           <MDBCardBody className='projectlink'>
           <MDBAccordion className='cardacc' borderless initialActive={0}>
       <MDBAccordionItem collapseId={1} headerTitle='About Ecomm'>
-        In this project is full stack Ecommerce application.It is Client side made of MDbootstrap, react-router-dom, Redux, Axios, MUI icons etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash, JWT,  Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
+        In this project is full stack Ecommerce application.It is Client side made of Reactjs, MDbootstrap, react-router-dom, Redux, Axios, MUI icons etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash, JWT,  Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
       </MDBAccordionItem>
       </MDBAccordion>
       <div className="projectbtn">
@@ -64,7 +64,7 @@ export default function Projects() {
           <MDBCardBody className='projectlink'>
           <MDBAccordion className='cardacc' borderless initialActive={0}>
       <MDBAccordionItem collapseId={1} headerTitle='About Weblog'>
-      In this project is full stack Weblog write Story, Article application. It is Client side made of react-router-dom, Context api, Axios, MUI icons etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash,  Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
+      In this project is full stack Weblog write Story, Article application. It is Client side made of Reactjs, react-router-dom, Context api, Axios, MUI icons etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash,  Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
       </MDBAccordionItem>
       </MDBAccordion>
       <div className="projectbtn">
@@ -80,7 +80,7 @@ export default function Projects() {
       </MDBDropdownMenu>
     </MDBDropdown>
     <div>
-      <MDBBtn size='sm' id="livepreview" href="https://eclectic-froyo-01b379.netlify.app/"
+      <MDBBtn size='sm' id="livepreview" href="https://admirable-daifuku-e2c385.netlify.app/"
                   target="_blank">Preview</MDBBtn>
                   </div>
     </div>
@@ -100,7 +100,7 @@ export default function Projects() {
           <MDBCardBody className='projectlink'>
           <MDBAccordion className='cardacc' borderless initialActive={0}>
       <MDBAccordionItem collapseId={1} headerTitle='About DOCS'>
-      In this project is full stack Online Document creating application with Login Process. It is Client side made of react-router-dom, Axios, Formik & with validation, Quilljs Text editor, MUI 5, etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash, & JWT Token, Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
+      In this project is full stack Online Document creating application with Login Process. It is Client side made of Reactjs, react-router-dom, Axios, Formik & with validation, Quilljs Text editor, MUI 5, etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Authentication Password hash, & JWT Token, Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
       </MDBAccordionItem>
       </MDBAccordion>
       <div className="projectbtn">
@@ -137,7 +137,7 @@ export default function Projects() {
           <MDBCardBody className='projectlink'>
           <MDBAccordion className='cardacc' borderless initialActive={0}>
       <MDBAccordionItem collapseId={1} headerTitle='About Dashboard'>
-      In this project is full stack Dashboard application with CRUD Operations. It is Client side made of react-router-dom, Axios, Formik & with validation, MDBootstrap React 5, etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
+      In this project is full stack Dashboard application with CRUD Operations. It is Client side made of Reactjs, recharts, react-circular-progressbar, react-router-dom, Axios, Formik & with validation, MDBootstrap React 5, etc.. AND server side Made of ExpressJs, MongoDB, NodeJs, Routes, cors, etc.. Finally Client side published in Github & Netlify.Next Server Side published in Github & Render.
       </MDBAccordionItem>
       </MDBAccordion>
       <div className="projectbtn">
