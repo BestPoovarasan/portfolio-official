@@ -27,7 +27,7 @@ export default function Home() {
           </h6>
           <MDBBtn
             id="downloadcv"
-            href="https://drive.google.com/file/d/17h5Zi8IHOWm4lYvsJFlCs2zFgyNzl2cR/view?usp=sharing"
+            href="https://drive.google.com/file/d/1B-kqtphRGwnZYC2jb1KQCtsKXIEH69Js/view?usp=share_link"
             target="_blank"
           >
             <MDBIcon className="me-2" fas icon="download" />
